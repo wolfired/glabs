@@ -1,5 +1,7 @@
 /bin/
 
+.*
 *.exe
 *.o
 *.out
+/Debug/
