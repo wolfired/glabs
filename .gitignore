@@ -1,7 +1,8 @@
 /bin/
+/Debug/
 
 .*
-*.exe
+*.obj
 *.o
+*.exe
 *.out
-/Debug/
